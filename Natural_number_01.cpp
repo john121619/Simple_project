@@ -1,0 +1,17 @@
+// Write  c++ program to print all natural numbers from 1 to n. - using while loop
+
+#include<iostream>
+using namespace std;
+int main()
+{
+    int n, i = 1;
+    cout<<"enter any natural number"<<endl;
+    cin>>n;
+
+    while(i <= n){
+ 
+ cout<<i<<"  ";
+ i++;
+    }
+    return 0;
+}

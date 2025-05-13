@@ -1,5 +1,6 @@
 // write a c++ program to print all armstrong number between 1 to n.
 #include<iostream>
+#include<cmath>
 using namespace std;
 int main()
 {
